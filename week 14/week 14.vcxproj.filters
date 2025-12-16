@@ -33,5 +33,16 @@
     <ClCompile Include="fseek.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="fptr_grp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fptr_calc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="my_math.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
